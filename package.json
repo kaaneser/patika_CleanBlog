@@ -1,0 +1,26 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "A blog application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/kaaneser/patika_CleanBlog.git"
+  },
+  "author": "Kaan Eser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaaneser/patika_CleanBlog/issues"
+  },
+  "homepage": "https://github.com/kaaneser/patika_CleanBlog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "prettier": "2.4.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
